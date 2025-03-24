@@ -1,4 +1,4 @@
-# How to track events within an iframe with GTM or Matomo ?
+# How to track events in an iframe with GTM or Matomo?
 
 Tracking an iframe with a tag manager isn't easy. By following these few steps, you'll be able to track everything inside an iframe!
 
