@@ -55,6 +55,6 @@ Add this script to your regular website to handle iframe events and send them to
 </script>
 ```
 
-## Step 3: Configure your Tag Manager to listen for dataLayer events
+## Step 4: Configure your Tag Manager to listen for dataLayer events
 
 If you look at the "dataLayer" object you will see that the iframe events are visible, you are now free to use your tag manager as usual to collect the event and send data to your favorite analytics tool.
