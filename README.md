@@ -6,7 +6,7 @@ Tracking an iframe with a tag manager isn't easy. By following these few steps, 
 
 By adding this code to your `iframe` source code, you allow your `iframe` to send information to its parent web page.
 
-```javascript
+```html
 <script>
     function sendEventFromIframe(data)
     {
@@ -31,7 +31,7 @@ Example:
 
 Add this script to your regular website to handle iframe events and send them to the `dataLayer` object.
 
-```javascript
+```html
 <script>
     // Initial dataLayer declaration
     window.dataLayer = window.dataLayer || [];
